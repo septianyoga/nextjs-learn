@@ -3,7 +3,7 @@ import style from './Navbar.module.css'
 const Navbar = () => {
     return (
         <div className={style.navbar}>
-            <div>Navbar</div>
+            <div>NAIKE</div>
         </div>
     )
 }
